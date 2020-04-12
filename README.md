@@ -5,6 +5,8 @@ Output : 3
 
 https://github.com/gohfangyao/Exercise-4/blob/master/Question1.java
 
+![Question1 Ans](https://user-images.githubusercontent.com/55262977/79073178-b0135c00-7d17-11ea-98c1-ddaa0e0e2870.JPG)
+
 
 # Question 2
 2a)
