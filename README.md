@@ -16,4 +16,9 @@ https://github.com/gohfangyao/Exercise-4/blob/master/Question1.java
 2b)
 https://github.com/gohfangyao/Exercise-4/blob/master/Question2.java
 
-![que2](https://user-images.githubusercontent.com/55262977/79073461-60359480-7d19-11ea-9846-a7ebdc3d5cf2.JPG)
+![ques2](https://user-images.githubusercontent.com/55262977/79073850-688ecf00-7d1b-11ea-830a-10557bcbc904.JPG)
+
+
+# Question 3
+
+![que3](https://user-images.githubusercontent.com/55262977/79073854-6d538300-7d1b-11ea-9929-243b37737310.JPG)
