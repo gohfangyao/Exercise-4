@@ -22,3 +22,6 @@ https://github.com/gohfangyao/Exercise-4/blob/master/Question2.java
 # Question 3
 
 ![que3](https://user-images.githubusercontent.com/55262977/79073854-6d538300-7d1b-11ea-9929-243b37737310.JPG)
+
+# Question 4
+https://github.com/gohfangyao/Exercise-4/blob/master/Question4.java
