@@ -25,3 +25,5 @@ https://github.com/gohfangyao/Exercise-4/blob/master/Question2.java
 
 # Question 4
 https://github.com/gohfangyao/Exercise-4/blob/master/Question4.java
+
+![que4](https://user-images.githubusercontent.com/55262977/79088586-a587af80-7d75-11ea-904b-b6761907d6d2.JPG)
